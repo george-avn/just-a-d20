@@ -1,0 +1,7 @@
+discord
+dnspython
+pymongo
+seaborn
+matplotlib
+Pillow
+psutil
